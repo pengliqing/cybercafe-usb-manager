@@ -25,11 +25,16 @@ jobs:
       
     - name: Restore NuGet packages
       run: |
-        echo "Restoring NuGet packages..."
-        # Try dotnet restore first, fallback to nuget restore
-        dotnet restore ${{ env.SOLUTION_FILE }} --verbosity minimal || (
-          echo "dotnet restore failed, trying nuget restore..."
-          nuget restore ${{ env.SOLUTION_FILE }} -Verbosity quiet
+        echo "Configuring NuGet sources..."
+        # Add official NuGet source explicitly
+        dotnet nuget add source https://api.nuget.org/v3/index.json -n nuget.org
+        
+        echo "Restoring NuGet packages with detailed logging..."
+        # Try dotnet restore with detailed output
+        dotnet restore ${{ env.SOLUTION_FILE }} --verbosity detailed || (
+          echo "dotnet restore failed, trying nuget restore with explicit source..."
+          nuget sources Add -Name "nuget.org" -Source "https://api.nuget.org/v3/index.json"
+          nuget restore ${{ env.SOLUTION_FILE }} -Verbosity detailed
         )
         echo "NuGet restore completed"
         
