@@ -1,0 +1,271 @@
+{
+  "version": "1.0",
+  "update_date": "2026-03-16",
+  "description": "常见游戏外设USB VID/PID数据库",
+  "vendors": [
+    {
+      "vid": "046D",
+      "name": "Logitech (罗技)",
+      "website": "https://www.logitech.com",
+      "software": "Logitech G Hub / Gaming Software",
+      "software_paths": [
+        "C:\\Program Files\\Logitech Gaming Software\\LGS.exe",
+        "C:\\Program Files\\Logitech\\Gaming Software\\LGS.exe",
+        "C:\\Program Files\\Logitech G Hub\\lghub.exe"
+      ],
+      "devices": [
+        {
+          "pid": "C08B",
+          "name": "G Pro Wireless",
+          "type": "mouse",
+          "model": "PRO Wireless Gaming Mouse"
+        },
+        {
+          "pid": "C08C",
+          "name": "G Pro X Superlight",
+          "type": "mouse",
+          "model": "PRO X Superlight Wireless Gaming Mouse"
+        },
+        {
+          "pid": "C332",
+          "name": "G502 HERO",
+          "type": "mouse",
+          "model": "G502 HERO High Performance Gaming Mouse"
+        },
+        {
+          "pid": "C24D",
+          "name": "G913 TKL",
+          "type": "keyboard",
+          "model": "G913 TKL Lightspeed Wireless RGB Mechanical Gaming Keyboard"
+        },
+        {
+          "pid": "C534",
+          "name": "G Pro X Keyboard",
+          "type": "keyboard",
+          "model": "PRO X Mechanical Gaming Keyboard"
+        }
+      ]
+    },
+    {
+      "vid": "1532",
+      "name": "Razer (雷蛇)",
+      "website": "https://www.razer.com",
+      "software": "Razer Synapse",
+      "software_paths": [
+        "C:\\Program Files (x86)\\Razer\\Synapse\\Razer Synapse.exe",
+        "C:\\Program Files\\Razer\\Synapse\\Razer Synapse.exe"
+      ],
+      "devices": [
+        {
+          "pid": "0067",
+          "name": "DeathAdder V2",
+          "type": "mouse",
+          "model": "DeathAdder V2 Gaming Mouse"
+        },
+        {
+          "pid": "0084",
+          "name": "Viper Ultimate",
+          "type": "mouse",
+          "model": "Viper Ultimate Wireless Gaming Mouse"
+        },
+        {
+          "pid": "022B",
+          "name": "BlackWidow V3",
+          "type": "keyboard",
+          "model": "BlackWidow V3 Mechanical Gaming Keyboard"
+        },
+        {
+          "pid": "0245",
+          "name": "Huntsman Mini",
+          "type": "keyboard",
+          "model": "Huntsman Mini 60% Gaming Keyboard"
+        }
+      ]
+    },
+    {
+      "vid": "1038",
+      "name": "SteelSeries (赛睿)",
+      "website": "https://steelseries.com",
+      "software": "SteelSeries Engine / GG",
+      "software_paths": [
+        "C:\\Program Files\\SteelSeries\\Engine\\SteelSeriesEngine.exe",
+        "C:\\Program Files\\SteelSeries\\GG\\SteelSeriesGG.exe"
+      ],
+      "devices": [
+        {
+          "pid": "1830",
+          "name": "Rival 3",
+          "type": "mouse",
+          "model": "Rival 3 Gaming Mouse"
+        },
+        {
+          "pid": "1845",
+          "name": "Aerox 3",
+          "type": "mouse",
+          "model": "Aerox 3 Wireless Gaming Mouse"
+        },
+        {
+          "pid": "1836",
+          "name": "Apex 7",
+          "type": "keyboard",
+          "model": "Apex 7 Mechanical Gaming Keyboard"
+        },
+        {
+          "pid": "1848",
+          "name": "Apex Pro",
+          "type": "keyboard",
+          "model": "Apex Pro Mechanical Gaming Keyboard"
+        }
+      ]
+    },
+    {
+      "vid": "1B1C",
+      "name": "Corsair (海盗船)",
+      "website": "https://www.corsair.com",
+      "software": "iCUE",
+      "software_paths": [
+        "C:\\Program Files (x86)\\Corsair\\Corsair iCUE Software\\iCUE.exe",
+        "C:\\Program Files\\Corsair\\Corsair iCUE Software\\iCUE.exe"
+      ],
+      "devices": [
+        {
+          "pid": "1B3E",
+          "name": "K70 RGB MK.2",
+          "type": "keyboard",
+          "model": "K70 RGB MK.2 Mechanical Gaming Keyboard"
+        },
+        {
+          "pid": "1B6C",
+          "name": "K100 RGB",
+          "type": "keyboard",
+          "model": "K100 RGB Optical-Mechanical Gaming Keyboard"
+        },
+        {
+          "pid": "1B49",
+          "name": "Dark Core RGB Pro",
+          "type": "mouse",
+          "model": "Dark Core RGB Pro Wireless Gaming Mouse"
+        },
+        {
+          "pid": "1B6D",
+          "name": "Sabre RGB Pro",
+          "type": "mouse",
+          "model": "Sabre RGB Pro Gaming Mouse"
+        }
+      ]
+    },
+    {
+      "vid": "0B05",
+      "name": "ASUS (华硕)",
+      "website": "https://www.asus.com",
+      "software": "Armoury Crate",
+      "software_paths": [
+        "C:\\Program Files\\ASUS\\Armoury Crate\\Armoury Crate.exe",
+        "C:\\Program Files (x86)\\ASUS\\Armoury Crate\\Armoury Crate.exe"
+      ],
+      "devices": [
+        {
+          "pid": "193B",
+          "name": "ROG Gladius II",
+          "type": "mouse",
+          "model": "ROG Gladius II Gaming Mouse"
+        },
+        {
+          "pid": "1949",
+          "name": "ROG Strix Scope",
+          "type": "keyboard",
+          "model": "ROG Strix Scope Gaming Keyboard"
+        }
+      ]
+    },
+    {
+      "vid": "1EA7",
+      "name": "Roccat (冰豹)",
+      "website": "https://en.roccat.com",
+      "software": "SWARM",
+      "software_paths": [
+        "C:\\Program Files (x86)\\ROCCAT\\Swarm\\ROCCAT Swarm.exe"
+      ],
+      "devices": [
+        {
+          "pid": "301A",
+          "name": "Kone AIMO",
+          "type": "mouse",
+          "model": "Kone AIMO Gaming Mouse"
+        },
+        {
+          "pid": "3034",
+          "name": "Vulcan 121",
+          "type": "keyboard",
+          "model": "Vulcan 121 Mechanical Gaming Keyboard"
+        }
+      ]
+    },
+    {
+      "vid": "04D9",
+      "name": "Qisan (琦梵)",
+      "website": "https://www.qisan.com",
+      "software": "无专用软件",
+      "software_paths": [],
+      "devices": [
+        {
+          "pid": "8008",
+          "name": "Magicforce 68",
+          "type": "keyboard",
+          "model": "Magicforce 68 Mechanical Keyboard"
+        }
+      ]
+    },
+    {
+      "vid": "045E",
+      "name": "Microsoft (微软)",
+      "website": "https://www.microsoft.com",
+      "software": "无专用软件",
+      "software_paths": [],
+      "devices": [
+        {
+          "pid": "07B2",
+          "name": "Wireless Desktop 850",
+          "type": "keyboard+mouse",
+          "model": "Wireless Desktop 850 Keyboard and Mouse Combo"
+        },
+        {
+          "pid": "0826",
+          "name": "Modern Mobile Mouse",
+          "type": "mouse",
+          "model": "Modern Mobile Mouse"
+        }
+      ]
+    },
+    {
+      "vid": "0951",
+      "name": "Kingston (金士顿)",
+      "website": "https://www.kingston.com",
+      "software": "HyperX NGENUITY",
+      "software_paths": [
+        "C:\\Program Files\\WindowsApps\\HyperXNGENUITY_*\\HyperX NGENUITY.exe"
+      ],
+      "devices": [
+        {
+          "pid": "16A7",
+          "name": "HyperX Alloy Origins",
+          "type": "keyboard",
+          "model": "HyperX Alloy Origins Mechanical Gaming Keyboard"
+        },
+        {
+          "pid": "1727",
+          "name": "HyperX Pulsefire Haste",
+          "type": "mouse",
+          "model": "HyperX Pulsefire Haste Gaming Mouse"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "此数据库为常见游戏外设的示例数据，实际应用需要更完整的数据库",
+    "建议集成开源USB ID数据库：http://www.linux-usb.org/usb-ids",
+    "软件路径为常见安装位置，实际位置可能因版本和安装选项而异",
+    "网吧环境常见设备：罗技、雷蛇、赛睿、海盗船",
+    "驱动签名要求：Windows 10需要数字签名驱动，测试模式不适合生产环境"
+  ]
+}

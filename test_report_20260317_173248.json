@@ -1,0 +1,313 @@
+{
+  "timestamp": "2026-03-17T17:32:48.144351",
+  "total_tests": 36,
+  "device_events": 36,
+  "test_results": [
+    {
+      "timestamp": "2026-03-17T17:31:53.981985",
+      "event": "device_connected",
+      "vid": "046D",
+      "pid": "C332",
+      "brand": "Logitech",
+      "name": "G Pro Wireless Mouse",
+      "type": "Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:01.189953",
+      "event": "device_disconnected",
+      "vid": "046D",
+      "pid": "C332",
+      "brand": "Logitech",
+      "name": "G Pro Wireless Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:01.190074",
+      "event": "device_connected",
+      "vid": "046D",
+      "pid": "C332",
+      "brand": "Logitech",
+      "name": "G Pro Wireless Mouse",
+      "type": "Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:01.690645",
+      "event": "device_connected",
+      "vid": "1532",
+      "pid": "0043",
+      "brand": "Razer",
+      "name": "DeathAdder V2",
+      "type": "Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:02.191242",
+      "event": "device_connected",
+      "vid": "1038",
+      "pid": "1729",
+      "brand": "SteelSeries",
+      "name": "Rival 3",
+      "type": "Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:14.805376",
+      "event": "device_disconnected",
+      "vid": "046D",
+      "pid": "C332",
+      "brand": "Logitech",
+      "name": "G Pro Wireless Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:15.305980",
+      "event": "device_disconnected",
+      "vid": "1532",
+      "pid": "0043",
+      "brand": "Razer",
+      "name": "DeathAdder V2"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:15.806547",
+      "event": "device_disconnected",
+      "vid": "1038",
+      "pid": "1729",
+      "brand": "SteelSeries",
+      "name": "Rival 3"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:16.307261",
+      "event": "device_connected",
+      "vid": "046D",
+      "pid": "C332",
+      "brand": "Logitech",
+      "name": "G Pro Wireless Mouse",
+      "type": "Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:18.509530",
+      "event": "device_disconnected",
+      "vid": "046D",
+      "pid": "C332",
+      "brand": "Logitech",
+      "name": "G Pro Wireless Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:19.009734",
+      "event": "device_connected",
+      "vid": "1532",
+      "pid": "0043",
+      "brand": "Razer",
+      "name": "DeathAdder V2",
+      "type": "Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:21.212419",
+      "event": "device_disconnected",
+      "vid": "1532",
+      "pid": "0043",
+      "brand": "Razer",
+      "name": "DeathAdder V2"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:21.713076",
+      "event": "device_connected",
+      "vid": "1038",
+      "pid": "1729",
+      "brand": "SteelSeries",
+      "name": "Rival 3",
+      "type": "Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:23.915380",
+      "event": "device_disconnected",
+      "vid": "1038",
+      "pid": "1729",
+      "brand": "SteelSeries",
+      "name": "Rival 3"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:24.415575",
+      "event": "device_connected",
+      "vid": "1B1C",
+      "pid": "1B3D",
+      "brand": "Corsair",
+      "name": "K70 RGB MK.2",
+      "type": "Keyboard"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:26.617667",
+      "event": "device_disconnected",
+      "vid": "1B1C",
+      "pid": "1B3D",
+      "brand": "Corsair",
+      "name": "K70 RGB MK.2"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:27.118328",
+      "event": "device_connected",
+      "vid": "1038",
+      "pid": "1729",
+      "brand": "SteelSeries",
+      "name": "Rival 3",
+      "type": "Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:29.921954",
+      "event": "device_disconnected",
+      "vid": "1038",
+      "pid": "1729",
+      "brand": "SteelSeries",
+      "name": "Rival 3"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:30.122290",
+      "event": "device_connected",
+      "vid": "046D",
+      "pid": "C332",
+      "brand": "Logitech",
+      "name": "G Pro Wireless Mouse",
+      "type": "Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:33.526235",
+      "event": "device_disconnected",
+      "vid": "046D",
+      "pid": "C332",
+      "brand": "Logitech",
+      "name": "G Pro Wireless Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:33.726564",
+      "event": "device_connected",
+      "vid": "1532",
+      "pid": "0043",
+      "brand": "Razer",
+      "name": "DeathAdder V2",
+      "type": "Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:33.926853",
+      "event": "device_disconnected",
+      "vid": "1532",
+      "pid": "0043",
+      "brand": "Razer",
+      "name": "DeathAdder V2"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:34.127203",
+      "event": "device_connected",
+      "vid": "1532",
+      "pid": "0043",
+      "brand": "Razer",
+      "name": "DeathAdder V2",
+      "type": "Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:34.327503",
+      "event": "device_disconnected",
+      "vid": "1532",
+      "pid": "0043",
+      "brand": "Razer",
+      "name": "DeathAdder V2"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:34.527647",
+      "event": "device_connected",
+      "vid": "1038",
+      "pid": "1729",
+      "brand": "SteelSeries",
+      "name": "Rival 3",
+      "type": "Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:36.129802",
+      "event": "device_disconnected",
+      "vid": "1038",
+      "pid": "1729",
+      "brand": "SteelSeries",
+      "name": "Rival 3"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:36.330159",
+      "event": "device_connected",
+      "vid": "1532",
+      "pid": "0043",
+      "brand": "Razer",
+      "name": "DeathAdder V2",
+      "type": "Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:36.530459",
+      "event": "device_disconnected",
+      "vid": "1532",
+      "pid": "0043",
+      "brand": "Razer",
+      "name": "DeathAdder V2"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:36.730794",
+      "event": "device_connected",
+      "vid": "1532",
+      "pid": "0043",
+      "brand": "Razer",
+      "name": "DeathAdder V2",
+      "type": "Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:36.931074",
+      "event": "device_disconnected",
+      "vid": "1532",
+      "pid": "0043",
+      "brand": "Razer",
+      "name": "DeathAdder V2"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:37.131421",
+      "event": "device_connected",
+      "vid": "1B1C",
+      "pid": "1B3D",
+      "brand": "Corsair",
+      "name": "K70 RGB MK.2",
+      "type": "Keyboard"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:39.934873",
+      "event": "device_disconnected",
+      "vid": "1B1C",
+      "pid": "1B3D",
+      "brand": "Corsair",
+      "name": "K70 RGB MK.2"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:40.135205",
+      "event": "device_connected",
+      "vid": "1038",
+      "pid": "1729",
+      "brand": "SteelSeries",
+      "name": "Rival 3",
+      "type": "Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:44.940245",
+      "event": "device_disconnected",
+      "vid": "1038",
+      "pid": "1729",
+      "brand": "SteelSeries",
+      "name": "Rival 3"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:45.140580",
+      "event": "device_connected",
+      "vid": "046D",
+      "pid": "C332",
+      "brand": "Logitech",
+      "name": "G Pro Wireless Mouse",
+      "type": "Mouse"
+    },
+    {
+      "timestamp": "2026-03-17T17:32:47.943929",
+      "event": "device_disconnected",
+      "vid": "046D",
+      "pid": "C332",
+      "brand": "Logitech",
+      "name": "G Pro Wireless Mouse"
+    }
+  ]
+}
